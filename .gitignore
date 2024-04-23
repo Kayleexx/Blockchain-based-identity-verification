@@ -1,0 +1,4 @@
+node_modules
+
+# Set LF line endings for Python files
+*.py text eol=lf
